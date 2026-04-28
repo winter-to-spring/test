@@ -1,0 +1,6 @@
+-- Placeholder — Phase 2 fills in.
+-- Required:
+--   ALTER TABLE notifications ADD COLUMN priority TEXT;
+--   ALTER TABLE notifications ADD COLUMN summary TEXT;
+--   ALTER TABLE notifications ADD COLUMN processed_at TIMESTAMP;
+--   CREATE TABLE raw_events (...);

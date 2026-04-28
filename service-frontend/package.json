@@ -1,0 +1,11 @@
+{
+  "_comment": "Placeholder — Phase 1 mission will fill in real dependencies (next 16, react 19, tailwind 4, etc.)",
+  "name": "cochat-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}

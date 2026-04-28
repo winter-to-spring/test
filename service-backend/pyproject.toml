@@ -1,0 +1,6 @@
+# Placeholder — Phase 1 mission will fill in dependencies + project metadata.
+# Required deps: fastapi, sqlalchemy, pydantic-settings, pytest, httpx.
+# Required name: cochat-backend.
+[project]
+name = "cochat-backend"
+version = "0.1.0"

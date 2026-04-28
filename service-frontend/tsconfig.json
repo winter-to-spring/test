@@ -1,0 +1,12 @@
+{
+  "_comment": "Placeholder — Phase 1 mission will fill in proper Next.js 16 + paths config.",
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "esnext",
+    "jsx": "preserve",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}

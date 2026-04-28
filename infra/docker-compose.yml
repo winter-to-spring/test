@@ -1,0 +1,6 @@
+# Placeholder — Phase 1 mission will fill in service definitions.
+# Required services: backend (build ../service-backend, port 8000),
+# frontend (build ../service-frontend, port 3000, NEXT_PUBLIC_API_URL=http://backend:8000).
+# Required volumes: ./data:/app/data for sqlite persistence.
+version: "3.9"
+services: {}
